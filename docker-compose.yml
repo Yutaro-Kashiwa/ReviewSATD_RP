@@ -1,0 +1,6 @@
+version: '3.7'
+services:
+    satd_review:
+        build: .
+        volumes:
+            - ./outputs:/work/outputs
