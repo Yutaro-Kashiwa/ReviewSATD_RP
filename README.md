@@ -31,6 +31,9 @@ Our source code is located in "src" directory.
 ## Require
 - Docker (> 20.10.13)
 
+## Preparation
+Please download input files from Zenodo and put them into "inputs" directory. 
+https://doi.org/10.5281/zenodo.7553005
 ## RUN (for Mac or Linux)
 This program is designed to run on docker.
 ```
